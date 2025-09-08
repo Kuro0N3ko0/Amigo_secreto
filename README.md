@@ -7,10 +7,19 @@ Esta aplicación permite:
 
 * Agregar nombres a una lista de amigos.
 * Visualizar la listade amigos en pantalla
-*  Sortear aleatoriamente uno de los amigos de la lista
+* Sortear aleatoriamente uno de los amigos de la lista
 
 TECNOLOGIAS UTILIZADAS
 
 * HTML
 * CSS
 * JavaScript
+
+ESTADO DEL PROYECTO
+
+- Finalizado 
+- Se puede mejorar con estilos/ animaciones CSS
+
+AUTOR
+
+Desarrollado por Agustin como parte de la practica en logica de programacion.
